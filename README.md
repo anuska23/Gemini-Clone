@@ -11,3 +11,5 @@ Website Link:-
 https://papaya-swan-697e0a.netlify.app/
 
 ![gemini](https://github.com/user-attachments/assets/25270fc9-58ee-480d-b081-10b838f45e2f)
+
+![Screenshot 2024-08-29 014123](https://github.com/user-attachments/assets/3770bbf7-dc3c-4498-88ae-5cb678544350)
