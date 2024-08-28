@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 Website Link:-
 https://papaya-swan-697e0a.netlify.app/
+
+![gemini](https://github.com/user-attachments/assets/25270fc9-58ee-480d-b081-10b838f45e2f)
